@@ -33,7 +33,7 @@
 </p>
 
 ## 🏆 Achievements
-[![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top%201%25-212C42?style=for-the-badge)](https://tryhackme.com/p/yourprofile)
+[![TryHackMe Rank](https://img.shields.io/badge/TryHackMe-Top%201%25-212C42?style=for-the-badge)](https://tryhackme.com/p/CodeMonarch)
 [![CTF Time](https://img.shields.io/badge/CTF_Time-500%2B_Points-FFD700?style=for-the-badge)](https://ctftime.org/user/yourprofile)
 
 ## 🛡️ Security Tools
